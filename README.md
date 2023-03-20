@@ -10,7 +10,7 @@
 
 | Category | Skill |
 | -- | -- |
-|Base | javascript ES6+, React (추후 Typescript 사용할지도?)|
+|Base | Typescript, React |
 | runtime | Node.js |
 | package management | npm |
 |state manage lib | Mobx (https://techblog.woowahan.com/2599/) |
