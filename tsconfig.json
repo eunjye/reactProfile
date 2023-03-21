@@ -21,6 +21,6 @@
     "jsx": "react-jsx"
   },
   "include": [
-    "src"
+    "./src/*" // 이 안에 모든 폴더들 포함
   ]
 }
