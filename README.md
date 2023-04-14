@@ -26,3 +26,9 @@
 | -- | -- |
 | test framework | Jest |
 | cross browsing | browserstack |
+
+
+### 실행
+```
+npm start
+```
