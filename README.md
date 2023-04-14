@@ -16,7 +16,7 @@
 |state manage lib | Mobx (https://techblog.woowahan.com/2599/) |
 | transcompiler | Babel |
 | bundler | webpack |
-| task runner | gulp |
+<!-- | task runner | gulp | -->
 | version Management | git |
 
 
